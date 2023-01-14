@@ -1,4 +1,4 @@
-## Boogie Releases <img src="https://raw.githubusercontent.com/ilovekids2/ilovekids2/master/wave.gif" width="30px">
+## Xero releases <img src="https://raw.githubusercontent.com/ilovekids2/ilovekids2/master/wave.gif" width="30px">
 This is Source Code For HorionFN
 
 ## ⚡ Languages used
@@ -18,5 +18,5 @@ Cosmetic data provided by [Fortnite API](https://fortnite-api.com/)
 
 
 
-Boogie is non-official and not endorsed by Epic Games in any way.
+Xero is non-official and not endorsed by Epic Games in any way.
 Epic Games, Fortnite, and all associated properties are trademarks or registered trademarks of Epic Games, Inc.
